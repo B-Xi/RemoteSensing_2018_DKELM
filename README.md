@@ -1,6 +1,6 @@
 Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery, Remote Sensing, 2018.
 ==
-[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html) and [Guangbo Ren] (https://dblp.org/pid/144/2607.html)
+[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html) and [Guangbo Ren](https://dblp.org/pid/144/2607.html)
 
 ***
 Code for paper: [Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery](https://www.mdpi.com/2072-4292/10/12/2036).
