@@ -5,7 +5,7 @@ Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification o
 ***
 Code for paper: [Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery](https://www.mdpi.com/2072-4292/10/12/2036).
 
-## An improved version of codes and work have been open sourced, please find them at [[PDF]](https://ieeexplore.ieee.org/document/) [[code]](https://github.com/B-Xi/TGRS_2020_MSC-EDKELM/)
+### An improved version of codes and work have been open sourced, please find them at [[PDF]](https://ieeexplore.ieee.org/document/) [[code]](https://github.com/B-Xi/TGRS_2020_MSC-EDKELM/)
 References
 --
 If you find this code helpful, please kindly cite:
